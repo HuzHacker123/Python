@@ -1,0 +1,6 @@
+a=input("Enter first number: ")
+b=int(input("Enter second number: "))
+c=type(a)
+d=type(b)
+print("The type of the first input is:", c)
+print("The type of the second input is:", d)

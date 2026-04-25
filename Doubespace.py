@@ -1,0 +1,5 @@
+text = input("Enter a text: ")
+print(text.count("  "))
+print(text.count(" "))
+print(text.find("  "))
+print(text.find(" "))
